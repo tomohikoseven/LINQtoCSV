@@ -1,0 +1,9 @@
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\Debug\LINQtoCSV.exe
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\Debug\LINQtoCSV.pdb
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\Debug\KabuUriKai.exe
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\Debug\log4net.dll
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\Debug\KabuUriKai.pdb
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\Debug\log4net.xml
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.csprojResolveAssemblyReference.cache
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.exe
+C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.pdb
