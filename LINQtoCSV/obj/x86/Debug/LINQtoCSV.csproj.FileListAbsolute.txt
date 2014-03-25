@@ -7,3 +7,13 @@ C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\bin\
 C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.csprojResolveAssemblyReference.cache
 C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.exe
 C:\Users\tomohiko\documents\visual studio 2010\Projects\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.pdb
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.pdb
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\LINQtoCSV.exe
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\LINQtoCSV.pdb
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\KabuUriKai.exe
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\log4net.dll
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\KabuUriKai.pdb
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\log4net.xml
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\obj\x86\Debug\LINQtoCSV.exe
+C:\Users\atx01\Documents\GitHub\LINQtoCSV\LINQtoCSV\bin\Debug\LINQtoCSV.exe.config

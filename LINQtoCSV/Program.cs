@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
-using KabuUriKai;
+using KabuUriKai.Judge;
+using KabuUriKai.Download;
+using KabuUriKai.Log;
 
 namespace ConsoleApplication1
 {
@@ -22,10 +24,12 @@ namespace ConsoleApplication1
             //    Console.WriteLine("PrefCode = {0}, PrefName = {1}", pref.Code, pref.Meigara);
             //}
             //Console.ReadLine();
+            MyLog.CreateLogFolder();
 
-            var kabuUriKai = new JudgeUrikai();
-            kabuUriKai.CreateJudgeFile();
+            var files = new JudgeUrikai();
+            files.CreateJudgeFile();
 
+            Console.Write("終了.");
             Console.ReadLine();
         }
     }
